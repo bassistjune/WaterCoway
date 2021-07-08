@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'SegMDL2';
+  src: url('SegMDL2.eot');
+  src: url('SegMDL2.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SegoeMDL2Assets';
+  src: url('SegoeMDL2Assets.ttf') format('truetype'),
+       url('SegoeMDL2Assets.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
