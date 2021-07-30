@@ -259,11 +259,13 @@ line-height: 62px;}
 .question_slider {
     width: 100%;
     max-width: 1200px;
-    height: 800px;
+    
     /* position: absolute; */ 
    /*  top: 15%;
     bottom: 0%; */
 }
+.question_slider .swiper-container {height: 800px;
+	overflow: hidden;}
 .question_slider .swiper-container {height: 600px; overflow: hidden;} 
 #container .user_content_wrap .question_slider .swiper-slide {
     text-align: center;
