@@ -259,6 +259,7 @@ line-height: 62px;}
 .question_slider {
     width: 100%;
     max-width: 1200px;
+    height: 800px;
     /* position: absolute; */ 
    /*  top: 15%;
     bottom: 0%; */
